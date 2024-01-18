@@ -1,0 +1,4 @@
+TgCrypto
+Pillow
+pyrogram
+https://github.com/RolexCoderZ/myrogram/archive/main.zip
